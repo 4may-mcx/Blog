@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T10:11:01.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VeeS0BtdR5Pq9jHvM5io" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T10:23:20.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2c5aK9-B-huO1v7MFK1-" version="21.2.1" type="github">
   <diagram name="第 1 页" id="l1hzwmIRR9jf0Bb3zMCW">
-    <mxGraphModel dx="1949" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="190" y="110" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="270" height="280" as="geometry" />
+          <mxGeometry x="130" y="380" width="270" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-7" value="显示设备名称：修改配置（点击配置设备）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="250" height="30" as="geometry" />
+          <mxGeometry x="140" y="480" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-8" value="显示设备状态：连接状态" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="250" height="30" as="geometry" />
+          <mxGeometry x="140" y="520" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-9" value="用户基本信息：（bmi / 血糖 / 年龄）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="330" width="250" height="30" as="geometry" />
+          <mxGeometry x="140" y="440" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-11" target="l1PFlF_tU-y6S5hCckUQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;如果评估为红&lt;br&gt;提示健康状态不良，提供可以跳转至健康建议的告警提示&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="220" height="130" as="geometry" />
+          <mxGeometry x="470" y="100" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-12" value="健康数据详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="225" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-15" target="l1PFlF_tU-y6S5hCckUQ-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,11 +40,11 @@
             <mxPoint x="510" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1PFlF_tU-y6S5hCckUQ-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;点击跳转至折线图&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="160" width="120" height="80" as="geometry" />
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;在当前页&lt;br&gt;点击跳转至折线图&lt;br&gt;替换进度条的位置&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-16" value="告警信息，点击跳转至健康建议" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="250" height="20" as="geometry" />
+          <mxGeometry x="140" y="400" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.415;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-21" target="l1PFlF_tU-y6S5hCckUQ-11">
           <mxGeometry relative="1" as="geometry">
@@ -58,10 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;如果评分健康，则不展示这个方框&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;未连接：两只鞋子都没连接，标&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#bababa&quot;&gt;灰色&lt;/font&gt;&lt;br&gt;x鞋未连接：只连接了一只鞋子，标&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#f31b1b&quot;&gt;红色&lt;/font&gt;&lt;br&gt;已经连接：全部连接，标&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;绿色&lt;/font&gt;&lt;br&gt;在非连接状态下点击该栏进入蓝牙配置页面&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="395" width="310" height="85" as="geometry" />
+          <mxGeometry x="470" y="485" width="310" height="85" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-23" target="l1PFlF_tU-y6S5hCckUQ-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,12 +70,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;作为评分的参数，由用户自己填入或者管理员上传&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="310" width="120" height="70" as="geometry" />
+          <mxGeometry x="-80" y="420" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l1PFlF_tU-y6S5hCckUQ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-25" target="l1PFlF_tU-y6S5hCckUQ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="350" as="sourcePoint" />
             <mxPoint x="360" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l1PFlF_tU-y6S5hCckUQ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="340" as="sourcePoint" />
+            <mxPoint x="-180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="70" width="290" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-32" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;内容不变&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="390" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;散点/折线图，异常数据特殊显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="90" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l1PFlF_tU-y6S5hCckUQ-36" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;" edge="1" parent="1" target="l1PFlF_tU-y6S5hCckUQ-33">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="-480" y="250" as="sourcePoint" />
+            <mxPoint x="-369.2" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-340" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
