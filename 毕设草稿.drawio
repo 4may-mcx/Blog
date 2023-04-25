@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T06:56:20.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HVVPXXhTqKVD5pVtAofH" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T07:02:16.901Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yYSWKU3smzDXOU0q4rqi" version="21.2.1" type="github">
   <diagram name="第 1 页" id="l1hzwmIRR9jf0Bb3zMCW">
     <mxGraphModel dx="1736" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="CxjUGKN8J9dIis0LseHi-50" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;首页展示列表：&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;1. 病人姓名（点击可以查看对应折线图/数据表格）&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;2. 病人近期评分&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;3. 病人状态（健康，警告，严重）&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="1910" width="290" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="CxjUGKN8J9dIis0LseHi-51" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;设置列表：&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;1. 可以配置病人状态评估标准&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;2. 上传对应健康咨询信息&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;添加对应标签方便前端给病人筛选&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;3.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxjUGKN8J9dIis0LseHi-51" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;设置列表：&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;1. 可以配置病人状态评估标准&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;2. 上传对应健康咨询信息&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;添加对应标签方便前端给病人筛选&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;3. 给用户发送定制告警&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1910" width="290" height="500" as="geometry" />
         </mxCell>
       </root>
