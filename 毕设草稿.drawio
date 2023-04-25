@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T06:34:48.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="15YDfJpLa0ShbjIkMNV7" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T06:37:17.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rJGUspxvAb5IBzX4URmS" version="21.2.1" type="github">
   <diagram name="第 1 页" id="l1hzwmIRR9jf0Bb3zMCW">
-    <mxGraphModel dx="2099" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,12 @@
         </mxCell>
         <mxCell id="CxjUGKN8J9dIis0LseHi-43" value="健康建议" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CxjUGKN8J9dIis0LseHi-44" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;要求可以修改用户的基本信息&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;1. 年龄&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;2. 身高&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;3. 体重&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;4. 性别&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;5. 血糖值&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; line-height: 100%;&quot;&gt;要求具有登出的按钮&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1310" width="290" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="CxjUGKN8J9dIis0LseHi-45" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;个人信息配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
